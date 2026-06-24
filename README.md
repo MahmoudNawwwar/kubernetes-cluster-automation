@@ -104,6 +104,30 @@ Detailed documentation is available in the **docs/** directory.
 
 ---
 
+## 📸 Screenshots
+
+### Cluster Nodes
+
+![Cluster Nodes](screenshots/01-kubectl-get-nodes.png)
+
+### All Kubernetes Pods
+
+![Pods](screenshots/02-kubectl-get-pods.png)
+
+### Cluster Information
+
+![Cluster Info](screenshots/03-cluster-info.png)
+
+### Ansible Automation
+
+![Ansible Playbook](screenshots/04-ansible-playbook-success.png)
+
+### Nodes (Wide Output)
+
+![Nodes Wide](screenshots/05-kubectl-get-nodes-wide.png)
+
+---
+
 ## 🚀 Future Improvements
 
 - Deploy NGINX Application
